@@ -6,7 +6,7 @@ export default function Featured() {
         <div className="featured">
             <div className="featuredItem">
                 <img
-                    src="https://www.beaches.com/blog/content/images/2021/03/Beaches-Turks-Caicos-Overview.jpg"
+                    src="https://www.worldatlas.com/upload/3c/86/c8/shutterstock-1579415920.jpg"
                     className="featuredImg"
                     alt="hotel"
                 />
@@ -17,7 +17,7 @@ export default function Featured() {
             </div>
             <div className="featuredItem">
                 <img
-                    src="https://www.beaches.com/blog/content/images/2021/03/Beaches-Turks-Caicos-Overview.jpg"
+                    src="https://vastphotos.com/files/uploads/photos/10884/high-resolution-yosemite-photo-l.jpg?v=20220712073521"
                     className="featuredImg"
                     alt="hotel"
                 />
@@ -28,12 +28,12 @@ export default function Featured() {
             </div>
             <div className="featuredItem">
                 <img
-                    src="https://www.beaches.com/blog/content/images/2021/03/Beaches-Turks-Caicos-Overview.jpg"
+                    src="https://vastphotos.com/files/uploads/photos/10884/high-resolution-yosemite-photo-l.jpg?v=20220712073521"
                     className="featuredImg"
                     alt="hotel"
                 />
                 <div className="featuredTitles">
-                    <h1>RICHMOND</h1>
+                    <h1>Yosemite</h1>
                     <h2>1 properties</h2>
                 </div>
             </div>
